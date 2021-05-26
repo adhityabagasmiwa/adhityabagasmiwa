@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 📫 How to reach me **adhityabagas98@gmail.com**
+- 📫 Reach me at **adhityabagas98@gmail.com**
 
 <h3 align="left">Stats : </h3>
 
@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhityabagasmiwa&theme=vue-dark&hide=css,html,php,jupyter%20notebook,javascript,hack,tsql&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Languages : </h3>
-<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages and Tools </h3>
+<p align="left"> <a href="https://developer.android.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="java" width="40" height="40"/><a href="https://www.java.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.postman.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="css3" width="40" height="40"/> </a></p>
 
 <h3 align="left">Let's connect! </h3>
 
