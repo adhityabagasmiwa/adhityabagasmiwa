@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="left">Hi 👋, I'm Adhitya Bagas!</h2>
-<h4 align="left">I'm passionate about UI Design</h4>
+<h4 align="left">I'm passionate about Android Development and UI Design</h4>
 
 - 🌱 I’m currently learning **Kotlin**
 
