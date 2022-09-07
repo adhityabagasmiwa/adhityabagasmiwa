@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Adhitya Bagas!</h2>
-<h3 align="center">I'm passionate about Android Development and UI Design</h4>
+<h3 align="center">I'm passionate about Android/iOS Development</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhityabagasmiwa&label=Profile%20views&color=0e75b6&style=flat-square" alt="adhityabagasmiwa" /> </p>
 
-- 🌱 I’m currently learning **Kotlin and Android Development**
+- 🌱 I’m currently learning **Flutter and Swift**
 
 - 📫 Reach me at **adhityabagas98@gmail.com**
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ![Adhitya's github stats](https://github-readme-stats.vercel.app/api?username=adhityabagasmiwa&show_icons=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhityabagasmiwa&theme=vue-dark&hide=css,html,php,jupyter%20notebook,javascript,hack,tsql&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhityabagasmiwa&theme=vue-dark&hide=c,c%2B%2B,java,cmake,ruby,css,html,php,jupyter%20notebook,javascript,hack,tsql&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and Tools : </h3>
 <p align="left"> 
